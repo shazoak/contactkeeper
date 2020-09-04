@@ -1,0 +1,4 @@
+{
+  "mangoURI": "mongodb+srv://hamid:hamid123@cluster0.jnhmi.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
